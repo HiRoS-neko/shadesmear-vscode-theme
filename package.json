@@ -3,6 +3,8 @@
     "displayName": "ShadeSmear",
     "description": "",
     "version": "0.0.1",
+    "publisher": "kyle-giammarco",
+    "repository": "https://github.com/hiros-neko/shadesmear-vscode-theme",
     "engines": {
         "vscode": "^1.60.0"
     },

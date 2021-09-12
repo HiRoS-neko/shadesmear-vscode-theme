@@ -12,11 +12,11 @@
 
 ### Dark
 
-Coming Soon
+![Dark](/images/shadesmear-dark-1.png)
 
 ### Light
 
-Coming Soon
+![Light](/images/shadesmear-light-1.png)
 
 ## Contributing
 
