@@ -2,9 +2,10 @@
     "name": "shadesmear",
     "displayName": "ShadeSmear",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "kyle-giammarco",
     "repository": "https://github.com/hiros-neko/shadesmear-vscode-theme",
+    "icon": "https://raw.githubusercontent.com/HiRoS-neko/shadesmear-vscode-theme/master/images/ShadeSmear-Logo.png",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -14,14 +15,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "ShadeSmear Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ShadeSmear Dark-color-theme.json"
-            },
-            {
                 "label": "ShadeSmear Light",
                 "uiTheme": "vs",
                 "path": "./themes/ShadeSmear Light-color-theme.json"
+            },
+            {
+                "label": "ShadeSmear Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ShadeSmear Dark-color-theme.json"
             }
         ]
     }
