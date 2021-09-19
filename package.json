@@ -14,14 +14,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "ShadeSmear Light",
-                "uiTheme": "vs",
-                "path": "./themes/ShadeSmear Light-color-theme.json"
-            },
-            {
                 "label": "ShadeSmear Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ShadeSmear Dark-color-theme.json"
+            },
+            {
+                "label": "ShadeSmear Light",
+                "uiTheme": "vs",
+                "path": "./themes/ShadeSmear Light-color-theme.json"
             }
         ]
     }
