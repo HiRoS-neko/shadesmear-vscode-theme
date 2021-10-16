@@ -497,7 +497,7 @@
         // "settings.dropdownListBorder": "",
         "settings.checkboxBackground": "#DBDBDB", //1
         "settings.checkboxForeground": "#232323", //5
-        // "settings.checkboxBorder": "",
+        "settings.checkboxBorder": "#C0C0C0",
         "settings.textInputBackground": "#DBDBDB", //1
         "settings.textInputForeground": "#232323", //5
         // "settings.textInputBorder": "",
